@@ -1,4 +1,4 @@
- space-ai-
+ space-ai
 Autonomous educational satellite project with AI elements
  SPACE AI – Автономный спутник
 
